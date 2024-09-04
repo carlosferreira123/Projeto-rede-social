@@ -3,6 +3,8 @@ main {
     flex-wrap: wrap;
     gap: 24px;
     padding-block: 24px;
+    align-items: center;
+    justify-content: center;
 }
 
 main img {
